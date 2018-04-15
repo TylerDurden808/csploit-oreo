@@ -1,4 +1,5 @@
 # cSploit: Android network pentesting suite
+_A patched Version of csploit in order to work on a Android Oreo smartphone. Due to a modified Android Manifest set to sdklevel 27 it's possible to run this app on an Android Oreo smartphone. It was made possible by APKTool. The source of this project belongs to the CSPLOIT Project._
 
 <img src="http://i.imgur.com/cFll5P9.jpg" width="250" />
 
